@@ -1,0 +1,230 @@
+* {
+    font-family: Helvetica Neue, sans-serif;
+}
+
+.nav {
+    font-size: 25px;
+    letter-spacing: 4.8px;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+.pricing {
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.price-table {
+    margin-left: 50px;
+}
+
+.price-table h2 {
+    letter-spacing: 7.4px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.price-table .desc {
+    letter-spacing: 5.1px;
+    margin-bottom: 60px;
+}
+
+
+.basic h3 {
+    color: #D24848;
+    font-weight: bold;
+    letter-spacing: 4.2px;
+}
+
+
+
+.advanced h3 {
+    color: #FFB33F;
+    font-weight: bold;
+    letter-spacing: 4.2px;
+}
+
+.pro h3 {
+    color: #1FE1E9;
+    font-weight: bold;
+    letter-spacing: 4.2px;
+}
+
+.line-1-p1 {
+    height: 2px;
+    width: 85px;
+    background-color: #D24848;
+    margin-bottom: 10px;
+}
+
+.line-2-p1 {
+    height: 2px;
+    width: 85px;
+    background-color: #FFB33F;
+    margin-bottom: 10px;
+}
+
+
+.line-3-p1 {
+    height: 2px;
+    width: 85px;
+    background-color: #1FE1E9;
+    margin-bottom: 10px;
+}
+
+.basic .price {
+    font-size: 70px;
+    font-weight: bold;
+    color: #D24848;
+}
+
+.advanced .price {
+    font-size: 70px;
+    font-weight: bold;
+    color: #FFB33F;
+}
+
+.pro .price {
+    font-size: 70px;
+    font-weight: bold;
+    color: #1FE1E9;
+}
+
+.basic ul li {
+    letter-spacing: 4.2px;
+}
+
+.advanced ul li {
+    letter-spacing: 4.2px;
+}
+
+.pro ul li {
+    letter-spacing: 4.2px;
+}
+
+.basic button {
+    color: white;
+    letter-spacing: 2.4px;
+    background-color: #D24848;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.advanced button {
+    color: white;
+    letter-spacing: 2.4px;
+    background-color: #FFB33F;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.pro button {
+    color: white;
+    letter-spacing: 2.4px;
+    background-color: #1FE1E9;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.perks {
+    padding: 50px;
+    background-color: #D34848;
+    color: white
+}
+
+.perks-table {
+    margin-left: 50px;
+}
+.perks-table h2 {
+    letter-spacing: 7.4px;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.line-1-p2 {
+    height: 2px;
+    width: 60px;
+    background-color:white;
+    margin-bottom: 10px;
+}
+
+.line-2-p2 {
+    height: 2px;
+    width: 60px;
+    background-color:white;
+    margin-bottom: 10px;
+}
+
+.line-3-p2 {
+    height: 2px;
+    width: 60px;
+    background-color:white;
+    margin-bottom: 10px;
+}
+
+.perk-stat p{
+    color: black;
+    font-size: 22px;
+}
+
+.perk-stat {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.perk-stat h3 {
+    font-size: 35px;
+}
+
+footer {
+    color: white;
+    top: 1947px;
+    left: 0px;
+    width: 100%;
+    height: 300px;
+    background-color: #5E33D1;
+    padding: 50px;
+}
+
+.statement-1 {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.support {
+    font-size: 16px;
+    letter-spacing: 3.5px;
+}
+.statement-1 p {
+    font-weight: normal;
+    font-size: 30px;
+    letter-spacing: 4.8px;
+}
+.statement-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.statement-2 p {
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 1;
+    letter-spacing: 2.4px;
+}
